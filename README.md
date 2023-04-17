@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Move Explorer tests to scheduled CI (#8305)
