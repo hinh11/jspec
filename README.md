@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Expand Model method type hinting (#8279)
