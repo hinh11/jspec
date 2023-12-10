@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Update format.yml to pull_request_target (#7460)
