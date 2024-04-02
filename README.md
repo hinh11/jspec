@@ -1,1 +1,1 @@
-add yolov10
+Improve Docs arguments tables (#8415)
