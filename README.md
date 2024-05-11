@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
