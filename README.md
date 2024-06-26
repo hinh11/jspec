@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Mkdocs annotations fixes (#7600)
